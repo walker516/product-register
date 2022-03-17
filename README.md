@@ -5,6 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
+_java_
+\_java\_
+
 * Ruby version
 
 * System dependencies
